@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img alt="Node.js" height="40" style="vertical-align:top; margin:4px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img alt="AWS" height="40" style="vertical-align:top; margin:4px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws" >
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" >
 <img alt="SQL" height="40" style="vertical-align:top; margin:4px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >
 <img alt="postgreSQL" height="40" style="vertical-align:top; margin:4px"
