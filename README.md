@@ -6,7 +6,7 @@
 * 🤔 I’m looking for help with ...
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicol-yoshikawa/)
 * 😄 Pronouns: She/her
-* ⚡️ fact: I like to go climbing 🧗🏻‍♀️ and I am a proud shiba inu owner 🐕 
+* ⚡️ fact: I like to go climbing 🧗🏻‍♀️ and I am a proud owner of a shiba inu 🐕 
 
 ### Languages and Tools: 
 <img alt="Python" height="40" style="vertical-align:top; margin:4px"
