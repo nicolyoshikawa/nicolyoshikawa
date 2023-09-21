@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on [Allocate](https://allocate-py6y.onrender.com). A web app where you can split and manage expenses with friends.
 * 👯 I’m looking to collaborate on exciting new projects in Python or Javascript.
 * 🌱 I’m ready to learn new languages and frameworks.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicol-yoshikawa/)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicol-yoshikawa/) or email: nicolyoshikawa@gmail.com
 * 😄 Pronouns: She/her
 * ⚡️ fact: I like to go climbing 🧗🏻‍♀️ and I am a proud owner of a shiba inu 🐕 
 <!-- 
