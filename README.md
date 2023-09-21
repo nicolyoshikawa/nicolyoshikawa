@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working on [Allocate] (https://allocate-py6y.onrender.com). A web app where you can split and manage expenses with friends. 
-<!-- 
-* 🌱 I’m currently learning ...
- -->
+<!-- * 🌱 I’m currently learning ...-->
 * 👯 I’m looking to collaborate on exciting new projects in Python or Javascript.
 * 🤔 I’m looking for help with ...
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicol-yoshikawa/)
