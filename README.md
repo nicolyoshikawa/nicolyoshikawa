@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on [Allocate] (https://allocate-py6y.onrender.com). A web app where you can split and manage expenses with friends.
+* 🔭 I’m currently working on [Allocate](https://allocate-py6y.onrender.com). A web app where you can split and manage expenses with friends.
 * 👯 I’m looking to collaborate on exciting new projects in Python or Javascript.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicol-yoshikawa/)
 * 😄 Pronouns: She/her
