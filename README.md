@@ -5,7 +5,7 @@
 * 🌱 I’m ready to learn new languages and frameworks.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicol-yoshikawa/) or by email at nicolyoshikawa@gmail.com
 * 😄 Pronouns: She/her
-* ⚡️ fact: I like to go climbing 🧗🏻‍♀️ and I am a proud owner of a shiba inu 🐕 
+* ⚡️ Fun fact: I like to go climbing 🧗🏻‍♀️ and I am a proud owner of a shiba inu 🐕 
 <!-- 
 * 🤔 I’m looking for help with 
 -->
